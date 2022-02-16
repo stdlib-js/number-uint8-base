@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-uint8-base",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Base utilities for unsigned 8-bit integers.",
   "license": "Apache-2.0",
   "author": {
