@@ -38,6 +38,7 @@
   "dependencies": {
     "@stdlib/number-uint8-base-add": "github:stdlib-js/number-uint8-base-add#main",
     "@stdlib/number-uint8-base-from-binary-string": "^0.2.2",
+    "@stdlib/number-uint8-base-mul": "github:stdlib-js/number-uint8-base-mul#main",
     "@stdlib/number-uint8-base-sub": "github:stdlib-js/number-uint8-base-sub#main",
     "@stdlib/number-uint8-base-to-binary-string": "^0.2.2",
     "@stdlib/utils-define-read-only-property": "^0.2.2"
