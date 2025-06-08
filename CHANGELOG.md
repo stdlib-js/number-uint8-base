@@ -2,6 +2,52 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-06-08)
+
+<section class="features">
+
+### Features
+
+-   [`0118405`](https://github.com/stdlib-js/stdlib/commit/0118405267e70154055052368896b1337d951e43) - add `add` to namespace
+-   [`f56c9f7`](https://github.com/stdlib-js/stdlib/commit/f56c9f7be596caa4a23d1ca9c7d6ff1dd919730a) - add `number/uint8/base/add`
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`0118405`](https://github.com/stdlib-js/stdlib/commit/0118405267e70154055052368896b1337d951e43) - **feat:** add `add` to namespace _(by Athan Reines)_
+-   [`f56c9f7`](https://github.com/stdlib-js/stdlib/commit/f56c9f7be596caa4a23d1ca9c7d6ff1dd919730a) - **feat:** add `number/uint8/base/add` _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
