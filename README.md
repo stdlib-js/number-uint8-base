@@ -76,7 +76,10 @@ var o = ns;
 
 <div class="namespace-toc">
 
+-   <span class="signature">[`add( x, y )`][@stdlib/number/uint8/base/add]</span><span class="delimiter">: </span><span class="description">compute the sum of two unsigned 8-bit integers.</span>
 -   <span class="signature">[`fromBinaryStringUint8( bstr )`][@stdlib/number/uint8/base/from-binary-string]</span><span class="delimiter">: </span><span class="description">create an unsigned 8-bit integer from a literal bit representation.</span>
+-   <span class="signature">[`mul( x, y )`][@stdlib/number/uint8/base/mul]</span><span class="delimiter">: </span><span class="description">multiply two unsigned 8-bit integers.</span>
+-   <span class="signature">[`sub( x, y )`][@stdlib/number/uint8/base/sub]</span><span class="delimiter">: </span><span class="description">subtract two unsigned 8-bit integers.</span>
 -   <span class="signature">[`toBinaryStringUint8( x )`][@stdlib/number/uint8/base/to-binary-string]</span><span class="delimiter">: </span><span class="description">return a string giving the literal bit representation of an unsigned 8-bit integer.</span>
 
 </div>
@@ -188,7 +191,13 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 <!-- <toc-links> -->
 
+[@stdlib/number/uint8/base/add]: https://github.com/stdlib-js/number-uint8-base-add
+
 [@stdlib/number/uint8/base/from-binary-string]: https://github.com/stdlib-js/number-uint8-base-from-binary-string
+
+[@stdlib/number/uint8/base/mul]: https://github.com/stdlib-js/number-uint8-base-mul
+
+[@stdlib/number/uint8/base/sub]: https://github.com/stdlib-js/number-uint8-base-sub
 
 [@stdlib/number/uint8/base/to-binary-string]: https://github.com/stdlib-js/number-uint8-base-to-binary-string
 

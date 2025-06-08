@@ -27,6 +27,8 @@
 
 <details>
 
+-   [`8e82087`](https://github.com/stdlib-js/stdlib/commit/8e820870a43e8b649135a6f664174efc81569de6) - **docs:** update namespace table of contents [(#7261)](https://github.com/stdlib-js/stdlib/pull/7261) _(by stdlib-bot)_
+-   [`348cca4`](https://github.com/stdlib-js/stdlib/commit/348cca418f8031d4a5d456b015fa39dfbd084972) - **docs:** add notes _(by Athan Reines)_
 -   [`05579b9`](https://github.com/stdlib-js/stdlib/commit/05579b92d37e65644945028a3d12ba8d0b36f188) - **feat:** add `mul` to namespace _(by Athan Reines)_
 -   [`169c8cb`](https://github.com/stdlib-js/stdlib/commit/169c8cb745f97bbb0260c82fa4f7ccc56d3b9ed7) - **feat:** add `number/uint8/base/mul` _(by Athan Reines)_
 -   [`590e647`](https://github.com/stdlib-js/stdlib/commit/590e647bd818c098689676a4d977bc36b11bfb94) - **docs:** fix description _(by Athan Reines)_
