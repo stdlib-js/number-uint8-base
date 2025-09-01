@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-08)
+## Unreleased (2025-09-01)
 
 <section class="features">
 
 ### Features
 
+-   [`774b270`](https://github.com/stdlib-js/stdlib/commit/774b270d053d49740326553d549f698c7a5e94c8) - add missing exports to namespaces
+-   [`b3414ca`](https://github.com/stdlib-js/stdlib/commit/b3414caabdd328fef1e0a44410a21cc5b7410571) - add `number/uint8/base/identity` [(#7848)](https://github.com/stdlib-js/stdlib/pull/7848)
 -   [`05579b9`](https://github.com/stdlib-js/stdlib/commit/05579b92d37e65644945028a3d12ba8d0b36f188) - add `mul` to namespace
 -   [`169c8cb`](https://github.com/stdlib-js/stdlib/commit/169c8cb745f97bbb0260c82fa4f7ccc56d3b9ed7) - add `number/uint8/base/mul`
 -   [`465c484`](https://github.com/stdlib-js/stdlib/commit/465c484235dbfba4c323c9913c4091e6d628374a) - add `sub` to namespace
@@ -27,6 +29,18 @@
 
 <details>
 
+-   [`774b270`](https://github.com/stdlib-js/stdlib/commit/774b270d053d49740326553d549f698c7a5e94c8) - **feat:** add missing exports to namespaces _(by Philipp Burckhardt)_
+-   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`7483bef`](https://github.com/stdlib-js/stdlib/commit/7483bef13b1d3241347266d25a02957269419825) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
+-   [`8c20ca4`](https://github.com/stdlib-js/stdlib/commit/8c20ca47e294c672e2261ca79452861dc3dd0764) - **bench:** fix types in C benchmarks [(#7865)](https://github.com/stdlib-js/stdlib/pull/7865) _(by Gunj Joshi)_
+-   [`b5cb6da`](https://github.com/stdlib-js/stdlib/commit/b5cb6da6915e43b4f3aec2387d3e2cd9f9b0999d) - **docs:** replace `integer` by `uinteger` in JSDocs [(#7866)](https://github.com/stdlib-js/stdlib/pull/7866) _(by Gunj Joshi)_
+-   [`1a121d7`](https://github.com/stdlib-js/stdlib/commit/1a121d7bf505791d601cf733a37eded4b18d8876) - **docs:** fix missing includes _(by Athan Reines)_
+-   [`b3414ca`](https://github.com/stdlib-js/stdlib/commit/b3414caabdd328fef1e0a44410a21cc5b7410571) - **feat:** add `number/uint8/base/identity` [(#7848)](https://github.com/stdlib-js/stdlib/pull/7848) _(by Gunj Joshi)_
+-   [`5896836`](https://github.com/stdlib-js/stdlib/commit/5896836635aa28aba7c97b3f21d32735d867c43b) - **build:** add package meta data _(by Athan Reines)_
+-   [`6c6fd79`](https://github.com/stdlib-js/stdlib/commit/6c6fd79627e1c79e5f98e53a05456057986c911a) - **build:** add package meta data _(by Athan Reines)_
+-   [`6803252`](https://github.com/stdlib-js/stdlib/commit/68032524e51f5f6b82e06e13253836ec5a539c40) - **build:** add package meta data _(by Athan Reines)_
+-   [`b299663`](https://github.com/stdlib-js/stdlib/commit/b299663090e95dc9c1ea27c35da67ede34c0b3a2) - **chore:** add notes _(by Athan Reines)_
 -   [`8e82087`](https://github.com/stdlib-js/stdlib/commit/8e820870a43e8b649135a6f664174efc81569de6) - **docs:** update namespace table of contents [(#7261)](https://github.com/stdlib-js/stdlib/pull/7261) _(by stdlib-bot)_
 -   [`348cca4`](https://github.com/stdlib-js/stdlib/commit/348cca418f8031d4a5d456b015fa39dfbd084972) - **docs:** add notes _(by Athan Reines)_
 -   [`05579b9`](https://github.com/stdlib-js/stdlib/commit/05579b92d37e65644945028a3d12ba8d0b36f188) - **feat:** add `mul` to namespace _(by Athan Reines)_
@@ -49,9 +63,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Gunj Joshi
+-   Philipp Burckhardt
 
 </section>
 
