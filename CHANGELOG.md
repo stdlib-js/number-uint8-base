@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.2.3">
 
-## Unreleased (2025-11-07)
+## 0.2.3 (2026-02-08)
 
 <section class="features">
 
@@ -30,6 +30,11 @@
 
 <details>
 
+-   [`0a1fd8e`](https://github.com/stdlib-js/stdlib/commit/0a1fd8e1abf27f34bcab5011b55f624b4d33ac27) - **bench:** refactor to use string interpolation in `number/uint8/base/identity` [(#8943)](https://github.com/stdlib-js/stdlib/pull/8943) _(by Krishna Awasthi)_
+-   [`45e4ab4`](https://github.com/stdlib-js/stdlib/commit/45e4ab474aeb331cc44490e90c173ee597a6c1d0) - **bench:** refactor to use string interpolation in `number/uint8/base/add` [(#8942)](https://github.com/stdlib-js/stdlib/pull/8942) _(by Krishna Awasthi)_
+-   [`afbf4d2`](https://github.com/stdlib-js/stdlib/commit/afbf4d2bfd3c526245c83f40967cf6887dbee703) - **bench:** refactor to use string interpolation in `number/uint8/base/sub` [(#8941)](https://github.com/stdlib-js/stdlib/pull/8941) _(by Krishna Awasthi)_
+-   [`6a9445c`](https://github.com/stdlib-js/stdlib/commit/6a9445cb7115b3a6c90bfbd3364c809343491543) - **bench:** refactor to use string interpolation in `number/uint8/base/mul` [(#8905)](https://github.com/stdlib-js/stdlib/pull/8905) _(by Krishna Awasthi)_
+-   [`7db5b32`](https://github.com/stdlib-js/stdlib/commit/7db5b32afe976e2d3c216a45e0927c88e668d340) - **chore:** add `alias_prefix` to parent namespaces [(#8540)](https://github.com/stdlib-js/stdlib/pull/8540) _(by Gunj Joshi)_
 -   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
 -   [`9ba40f2`](https://github.com/stdlib-js/stdlib/commit/9ba40f27deb2f5bafaccdebe3c18dd7bb0e53e3f) - **feat:** update `number/uint8/base` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`774b270`](https://github.com/stdlib-js/stdlib/commit/774b270d053d49740326553d549f698c7a5e94c8) - **feat:** add missing exports to namespaces _(by Philipp Burckhardt)_
@@ -66,10 +71,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gunj Joshi
+-   Krishna Awasthi
 -   Philipp Burckhardt
 
 </section>
